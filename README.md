@@ -1,1 +1,2 @@
-#fantasybball
+# Fantasy Basketball Jupyter Notebook
+Uses calls to ESPN's unexposed fantasy basketball API to obtain league data for simulations and comparisons for 9Cat H2H Fantasy Basketball leagues. Features include weekly matchup simulations using remaining games (schedule mined using BeautifulSoup from ESPN front facing webiste), trade simulation (calculates projected player output using data from basketball reference), and per category ranking for leagues.
